@@ -17,12 +17,15 @@ But this project only use in offline, rather than in library which can control a
   # 1.1 Purpose:-
 
   The purposes of this application are as follows:
-     • The software is for automation of library.
-     • It provides following facilities to
+  
+   • The software is for automation of library.
+     
+   • It provides following facilities to
 
   # 1.2 Operator:-
 
    • Can enter details related to a particular book.
+   
    • Can provide membership to members.
 
   # 1.3 Admin:-
@@ -36,7 +39,9 @@ But this project only use in offline, rather than in library which can control a
 # 2.	Scope :-
 
  The different areas where we can use this application are:       
+ 
    • Any education institute can make use of it for providing information about author, content of the available books.
+   
    • It can be used in offices and modifications can be easily done according to requirements.
 
 # 3.	Technology Used :-
@@ -47,10 +52,13 @@ But this project only use in offline, rather than in library which can control a
 # 4.	Assumptions:-
 
 • This application is used to convert the manual application to the online application.
+
 • Customized data will be used in this application.
+
 • User does not have right to enter information about books.
 
 # 5.	Functionality:-
 
 • Online membership.
+
 • Keeps the track of issues and submission of books.
