@@ -62,3 +62,6 @@ But this project only use in offline, rather than in library which can control a
 • Online membership.
 
 • Keeps the track of issues and submission of books.
+
+
+<!-- GitAds-Verify: LJ6RFWEIA86NWPVXD5IAIB63QMIR6JRO -->
