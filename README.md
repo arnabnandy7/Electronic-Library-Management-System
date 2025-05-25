@@ -64,4 +64,7 @@ But this project only use in offline, rather than in library which can control a
 • Keeps the track of issues and submission of books.
 
 
-<!-- GitAds-Verify: LJ6RFWEIA86NWPVXD5IAIB63QMIR6JRO -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/electronic-library-management-system@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/electronic-library-management-system@github)
+
+
